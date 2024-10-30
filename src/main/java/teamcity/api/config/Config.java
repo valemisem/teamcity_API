@@ -3,7 +3,7 @@ package teamcity.api.config;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
-
+// new config
 public class Config {
     private final static String CONFIG_PROPERTIES = "config.properties";
     private static Config config;
